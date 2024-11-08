@@ -1,3 +1,3 @@
--Simple Ecom end-t-end website, using spring framework.\
+-Simple Ecom end-to-end website, using spring framework.\
 -Created distinct layers Controller, Service, Repository layers.\
--Developed Api for CRUD operations of products, using Push,Get,Put,Delete mappings rest api methods.
+-Developed Api for CRUD operations on products, using Push,Get,Put,Delete mappings rest api methods.
